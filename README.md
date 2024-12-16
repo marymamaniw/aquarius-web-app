@@ -35,6 +35,20 @@ Asegúrate de seguir las instrucciones de instalación y configuración en el re
    yarn dev
   ```
 
+## Acceso a la aplicación
+
+Para probar la aplicación, puedes usar las siguientes credenciales:
+
+**Usuario:** 
+```
+marymamani.w@gmail.com
+```
+**Contraseña:** 
+```
+password123
+```
+
+
 ## Tecnologias utilizadas
 
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
