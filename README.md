@@ -6,6 +6,9 @@ Parte de una solución más amplia que incluye un backend, una aplicación móvi
 ## Demo
 Breve video que muestra cómo funciona la aplicación:
 
+https://github.com/user-attachments/assets/62bd7592-0726-4bd8-a42a-ef182efa25f3
+
+
 
 ## Requisitos
 
